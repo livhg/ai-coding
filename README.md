@@ -19,10 +19,10 @@
 - [檔案](./session1-technical-foundations/rag_foundation.ipynb)
 
 **prompt-engineering-token-tracker** 
-- [TODO API](./session1-technical-foundations/demo-project/todo-api)
-- [WEATHER API](./session1-technical-foundations/demo-project/weather-api)
 - [開啟 Colab](https://colab.research.google.com/drive/12lQzKP0mWP40j9IX-V4Boe14kXLBF_y4)
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
+- [TODO API](https://github.com/livhg/demo-todo-api)
+- [WEATHER API](https://github.com/livhg/demo-weather-api)
 
 **context-engineering** 
 - [開啟 Colab](https://colab.research.google.com/drive/162y6I01nlN_FPQPUjiLvVLs-7fWN5Lm6)
