@@ -25,7 +25,7 @@
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
 
 **context-engineering** 
-- [開啟 Colab](#)
+- [開啟 Colab](https://colab.research.google.com/drive/162y6I01nlN_FPQPUjiLvVLs-7fWN5Lm6)
 - [檔案](./session1-technical-foundations\context_engineering.ipynb)
 
 ---
