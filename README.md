@@ -33,5 +33,6 @@
 ## 🔗 常用連結
 - [課程大綱](./OUTLINE.md)
 - [Google AI Studio - API Keys](https://aistudio.google.com/api-keys)
+- [Helicone API Key](https://docs.google.com/document/d/1F8HY6Anm9Js6eji3RGr2cluY80oFU70pl_rSSR5WEY4)
 
 ---
