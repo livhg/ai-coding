@@ -11,21 +11,21 @@
 ### Session 1: Technical Foundations
 
 **ai-coding-foundation**
-- [開啟 Colab](https://colab.research.google.com/drive/1puRSIbdQzWRXBaokSEOuyXdBikzhpM08)
+- [開啟 Colab](https://colab.research.google.com/drive/1px3OKzhQK173iio6LYJOl5LKE24IRoqa)
 - [檔案](./session1-technical-foundations/ai_coding_foundation.ipynb)
 
 **rag-foundation**
-- [開啟 Colab](https://colab.research.google.com/drive/1AAKxjSxOgD6L-Z2I79CRLbLJfIWXL7mb)
+- [開啟 Colab](https://colab.research.google.com/drive/1bsgQSaDJjJ_TQ-ZTvPHA1ae9NCmsGG_j)
 - [檔案](./session1-technical-foundations/rag_foundation.ipynb)
 
 **prompt-engineering-token-tracker** 
-- [開啟 Colab](https://colab.research.google.com/drive/12lQzKP0mWP40j9IX-V4Boe14kXLBF_y4)
+- [開啟 Colab](https://colab.research.google.com/drive/1kkebvO2-qrQhn6mZGJY3I0xD0amSyxdG)
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
 - [TODO API](https://github.com/livhg/demo-todo-api)
 - [WEATHER API](https://github.com/livhg/demo-weather-api)
 
 **context-engineering** 
-- [開啟 Colab](https://colab.research.google.com/drive/162y6I01nlN_FPQPUjiLvVLs-7fWN5Lm6)
+- [開啟 Colab](https://colab.research.google.com/drive/1eRNgspFWU9TjFqEynB_23bnHl7i9xKmx)
 - [檔案](./session1-technical-foundations\context_engineering.ipynb)
 
 ---
