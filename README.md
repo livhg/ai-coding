@@ -24,7 +24,10 @@
 
 **context-engineering** 
 - [開啟 Colab](https://colab.research.google.com/drive/1eRNgspFWU9TjFqEynB_23bnHl7i9xKmx)
-- [檔案](./session1-technical-foundations\context_engineering.ipynb)
+- [檔案](./session1-technical-foundations/context_engineering.ipynb)
+
+**demo-n8n-rag**
+- [README](session1-technical-foundations/demo-n8n-rag/README.md)
 
 ---
 
