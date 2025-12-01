@@ -16,7 +16,7 @@ docker compose version
 # 2. 下載 docker-compose.yml
 mkdir -p demo-n8n-rag
 cd demo-n8n-rag/
-curl -O https://raw.githubusercontent.com/livhg/ai-coding/main/session1-technical-foundations/n8n-rag-lab/docker-compose.yml
+curl -O https://raw.githubusercontent.com/livhg/ai-coding/main/session1-technical-foundations/demo-n8n-rag/docker-compose.yml
 
 # 3. 啟動環境
 docker compose up -d
@@ -33,7 +33,7 @@ docker compose up -d
 
 ```bash
 # 下載 docker-compose.yml
-curl -O https://raw.githubusercontent.com/livhg/ai-coding/main/session1-technical-foundations/n8n-rag-lab/docker-compose.yml
+curl -O https://raw.githubusercontent.com/livhg/ai-coding/main/session1-technical-foundations/demo-n8n-rag/docker-compose.yml
 
 # 啟動環境
 docker compose up -d
