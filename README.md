@@ -21,8 +21,6 @@
 **prompt-engineering-token-tracker** 
 - [開啟 Colab](https://colab.research.google.com/drive/1kkebvO2-qrQhn6mZGJY3I0xD0amSyxdG)
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
-- [TODO API](https://github.com/livhg/demo-todo-api)
-- [WEATHER API](https://github.com/livhg/demo-weather-api)
 
 **context-engineering** 
 - [開啟 Colab](https://colab.research.google.com/drive/1eRNgspFWU9TjFqEynB_23bnHl7i9xKmx)
@@ -34,5 +32,6 @@
 - [課程大綱](./OUTLINE.md)
 - [Google AI Studio - API Keys](https://aistudio.google.com/api-keys)
 - [Helicone API Key](https://docs.google.com/document/d/1F8HY6Anm9Js6eji3RGr2cluY80oFU70pl_rSSR5WEY4)
+- [Play with Docker](https://labs.play-with-docker.com/)
 
 ---

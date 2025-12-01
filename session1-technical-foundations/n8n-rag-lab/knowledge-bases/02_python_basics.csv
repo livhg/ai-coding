@@ -1,0 +1,9 @@
+id,title,content
+doc1,Python 變數型別,Python 支援多種資料型別：整數 int、浮點數 float、字串 str、布林值 bool、列表 list、字典 dict、元組 tuple。使用 type() 函式可以查看變數型別。
+doc2,Python 串列操作,串列（List）是可變的有序集合。常用操作：append() 新增元素、remove() 刪除元素、sort() 排序、len() 取得長度、切片 [start:end] 取得子集。
+doc3,Python 迴圈,Python 提供 for 和 while 兩種迴圈。for 迴圈常用於遍歷序列，while 迴圈用於條件判斷。range() 函式產生數字序列，enumerate() 同時取得索引和值。
+doc4,Python 函式定義,使用 def 關鍵字定義函式。函式可以有參數、預設值、回傳值。支援位置參數、關鍵字參數、*args、**kwargs。Lambda 函式提供簡短的匿名函式語法。
+doc5,Python 例外處理,使用 try-except 捕捉例外。常見例外：ValueError、TypeError、KeyError、IndexError。finally 區塊無論是否發生例外都會執行。raise 關鍵字主動拋出例外。
+doc6,Python 檔案讀寫,使用 open() 函式開啟檔案，模式有 'r' 讀取、'w' 寫入、'a' 附加。建議使用 with 語句自動關閉檔案。read()、readline()、readlines() 用於讀取內容。
+doc7,Python 字典操作,字典（Dict）是鍵值對的集合。使用 keys()、values()、items() 取得內容。get() 方法可設定預設值避免 KeyError。update() 合併字典。
+doc8,Python 模組導入,使用 import 導入模組。import module 導入整個模組，from module import function 導入特定函式。as 關鍵字設定別名。常用內建模組：os、sys、json、datetime。

@@ -1,0 +1,9 @@
+id,title,content
+doc1,什麼是 Token,Token 是 AI 處理文字的最小單位。一個 Token 可能是一個字、一個詞的一部分，或是標點符號。中文通常一個字等於 1-2 個 tokens，英文單字約 0.75 tokens。
+doc2,Embedding 向量,Embedding 是將文字轉換為數字向量的過程，使機器能理解語義。相似意思的文字會有相近的向量值，讓 AI 能進行語義搜尋和比較。
+doc3,Context Window,Context Window 是 AI 模型一次能處理的 token 數量上限。例如 GPT-4 有 128K tokens 的 context window，相當於約 300 頁的文字內容。
+doc4,RAG 技術,RAG（Retrieval-Augmented Generation）結合檢索和生成，讓 AI 能基於外部知識庫回答問題。三階段：Retrieval 檢索相關文件、Augmented 增強 prompt、Generation 生成回答。
+doc5,向量搜尋,向量搜尋透過計算語義相似度找到相關文件，不像關鍵字搜尋只匹配完全相同的字詞。能理解同義詞、跨語言搜尋，更符合人類理解方式。
+doc6,LLM 幻覺問題,LLM 有時會生成看似合理但實際錯誤的資訊，這稱為幻覺（Hallucination）。使用 RAG 技術可以大幅降低幻覺，因為回答基於真實文件而非憑空生成。
+doc7,Prompt Engineering,Prompt Engineering 是設計有效 prompt 的技巧，包括明確指令、提供範例、角色設定、分步驟思考等。好的 prompt 能顯著提升 AI 輸出品質。
+doc8,AI Agent,AI Agent 是能自主執行任務的 AI 系統，具備工具使用、記憶管理、決策能力。透過 LLM + Context Engineering + Tools 實現複雜的自動化工作流程。
