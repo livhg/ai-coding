@@ -1,0 +1,41 @@
+請實作這個 Python function 的內容（只需要 function body）：
+
+def search_books(conn, filters: dict) -> list[dict]:
+    \"\"\"
+    多條件動態搜尋書籍
+
+    Args:
+        conn: sqlite3 資料庫連線物件
+        filters: 搜尋條件字典，所有條件都是選填：
+            - title: str (模糊搜尋，不分大小寫)
+            - author: str (模糊搜尋，不分大小寫)
+            - year_from: int (出版年份 >=)
+            - year_to: int (出版年份 <=)
+            - limit: int (最大回傳筆數，預設 10，最大 100)
+            - offset: int (分頁偏移，預設 0)
+
+    Returns:
+        list[dict]: 符合條件的書籍列表，每本書包含 id, title, author, isbn, published_year
+                    依 id 升冪排序
+
+    資料表 Schema:
+        CREATE TABLE books (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT NOT NULL,
+            author TEXT NOT NULL,
+            isbn TEXT UNIQUE NOT NULL,
+            published_year INTEGER,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        );
+
+    注意事項:
+        - 使用 parameterized query 防止 SQL injection
+        - 模糊搜尋使用 LIKE 和 %，例如 title LIKE '%keyword%'
+        - 不分大小寫搜尋使用 LOWER()
+        - 動態組合 WHERE 條件（只加入有提供的條件）
+        - limit 預設 10，最大不超過 100
+        - offset 預設 0
+        - 結果依 id ASC 排序
+    \"\"\"
+
+只需要回傳 function body 的程式碼，不要包含 def 和 docstring。
