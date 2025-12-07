@@ -9,6 +9,8 @@
 ## 📚 Lab list
 
 ### Session 1: Technical Foundations
+<details>
+<summary>Session Details</summary>
 
 **ai-coding-foundation**
 - [開啟 Colab](https://colab.research.google.com/drive/1px3OKzhQK173iio6LYJOl5LKE24IRoqa)
@@ -28,6 +30,7 @@
 
 **demo-n8n-rag**
 - [README](session1-technical-foundations/demo-n8n-rag/README.md)
+</details>
 
 ### Session 2: AI Agents
 
