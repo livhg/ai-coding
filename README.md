@@ -29,6 +29,19 @@
 **demo-n8n-rag**
 - [README](session1-technical-foundations/demo-n8n-rag/README.md)
 
+### Session 2: AI Agents
+
+**agent-basics**
+- [開啟 Colab](https://colab.research.google.com/drive/1koc7nr1ngpZmIyi7lXCDIQoealUZrPaZ)
+- [檔案](./session2-ai-agents/agent_basics.ipynb)
+
+**agent-tools**
+- [開啟 Colab](https://colab.research.google.com/drive/1AhU3Eo6_WTgb2pBZTTq6sXZZqMeny8xP)
+- [檔案](./session2-ai-agents/agent_tools.ipynb)
+
+**demo-multi-agents**
+- [README](session2-ai-agents/demo-multi-agents/README.md)
+
 ---
 
 ## 🔗 常用連結
@@ -36,5 +49,6 @@
 - [Google AI Studio - API Keys](https://aistudio.google.com/api-keys)
 - [Helicone API Key](https://docs.google.com/document/d/1F8HY6Anm9Js6eji3RGr2cluY80oFU70pl_rSSR5WEY4)
 - [Play with Docker](https://labs.play-with-docker.com/)
+- [Gemini API Key](https://docs.google.com/document/d/14pJ1i7wNNIMs9f8zPwDZPsDfSDvjVCviMg-OexLcdDI)
 
 ---
