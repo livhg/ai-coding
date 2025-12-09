@@ -1,9 +1,9 @@
-# ADK Setup Guide
+# Demo Project Setup Guide
 
 This guide will walk you through setting up the Google Agent Development Kit (ADK) on Windows, macOS, and Linux.
 
 ## Table of Contents
-- [Step 1: Install Python](#step-1-install-python)
+- [Step 1: Verify Python and Git Installation](#step-1-verify-python-and-git-installation)
 - [Step 2: Create a Virtual Environment](#step-2-create-a-virtual-environment)
 - [Step 3: Install Google ADK](#step-3-install-google-adk)
 - [After Practice: Deactivating Virtual Environment](#after-practice-deactivating-virtual-environment)
@@ -11,64 +11,21 @@ This guide will walk you through setting up the Google Agent Development Kit (AD
 
 ---
 
-## Step 1: Install Python (if needed)
+## Step 1: Verify Python and Git Installation
 
-### Windows
+Before starting, ensure you have Python and Git installed on your system.
 
-1. **Install Python using winget:**
-   - Open **Command Prompt**
-   - Run the following command:
-     ```cmd
-     winget install 9NQ7512CXL7T
-     ```
-   - Wait for the installation to complete
-   - Official reference: [Python Manager - Microsoft Store](https://www.python.org/downloads/release/pymanager-252/)
+### To verify installation:
 
-2. **Verify Installation:**
-   - Close and reopen Command Prompt (to refresh PATH)
-   - Run:
-     ```cmd
-     python --version
-     ```
-   - You should see the Python version number
+```bash
+python3 --version
+git --version
+```
 
-### macOS
+If not installed, please refer to the official pages:
 
-1. **Using Homebrew (Recommended):**
-   ```bash
-   # Install Homebrew if you haven't already
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   
-   # Install Python
-   brew install python
-   ```
-
-2. **Alternative - Direct Download:**
-   - Visit [python.org/downloads](https://www.python.org/downloads/)
-   - Download the macOS installer
-   - Run the `.pkg` file and follow installation steps
-
-3. **Verify Installation:**
-   ```bash
-   python3 --version
-   ```
-
-### Linux (Ubuntu/Debian)
-
-1. **Update Package List:**
-   ```bash
-   sudo apt update
-   ```
-
-2. **Install Python:**
-   ```bash
-   sudo apt install python3
-   ```
-
-3. **Verify Installation:**
-   ```bash
-   python3 --version
-   ```
+- **Python:** https://www.python.org/downloads/
+- **Git:** https://git-scm.com/downloads/win
 
 ---
 
