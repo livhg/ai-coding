@@ -2,16 +2,6 @@
 
 This guide will walk you through setting up the Google Agent Development Kit (ADK) on Windows, macOS, and Linux.
 
-## Table of Contents
-
-- [Step 1: Verify Python and Git Installation](#step-1-verify-python-and-git-installation)
-- [Step 2: Create a Virtual Environment](#step-2-create-a-virtual-environment)
-- [Step 3: Install Google ADK](#step-3-install-google-adk)
-- [After Practice: Deactivating Virtual Environment](#after-practice-deactivating-virtual-environment)
-- [Troubleshooting](#troubleshooting)
-
----
-
 ## Step 1: Verify Installation
 
 Before starting, ensure you have the required tools installed on your system.
