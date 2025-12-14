@@ -59,13 +59,13 @@ Virtual environments help isolate project dependencies and prevent conflicts.
 2. **Create Virtual Environment and Install Packages (One Command!):**
 
    ```bash
-   uv venv mcp_env --python 3.14
+   uv venv adk_env --python 3.14
    ```
 
 3. **Activate Virtual Environment:**
 
-   - **Windows (Command Prompt):** `mcp_env\Scripts\activate`
-   - **macOS/Linux:** `source mcp_env/bin/activate`
+   - **Windows (Command Prompt):** `adk_env\Scripts\activate`
+   - **macOS/Linux:** `source adk_env/bin/activate`
 
 ### Alternative: Using Standard Python (Without uv)
 
@@ -148,8 +148,8 @@ deactivate
 Remove the virtual env
 
 ```
-rm -rf mcp_env    # macOS/Linux
-rd /s mcp_env     # Windows (Command Prompt)
+rm -rf adk_env    # macOS/Linux
+rd /s adk_env     # Windows (Command Prompt)
 ```
 
 ---
