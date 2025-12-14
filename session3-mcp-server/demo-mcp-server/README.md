@@ -15,28 +15,27 @@ uv --version     # Optional but recommended
 ### Installation Guide
 
 #### Python
+
 - **Download:** https://www.python.org/downloads/
 
 #### Node.js (npx included)
+
 - **Windows:** `winget install OpenJS.NodeJS.LTS`
 - **Download:** https://nodejs.org/zh-tw/download
 
 #### uv (⚡ Recommended - Fast Python package manager)
 
 - **Windows (PowerShell):**
-   ```powershell
-   powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-   ```
+
+  ```powershell
+  powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+  ```
 
 - **macOS/Linux:**
-   ```bash
-   curl -LsSf https://astral.sh/uv/install.sh | sh
-   ```
 
-- **Alternative (using pip):**
-   ```bash
-   pip install uv
-   ```
+  ```bash
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  ```
 
 - **More installation options:** https://docs.astral.sh/uv/getting-started/installation/
 
@@ -61,18 +60,20 @@ Or download from https://github.com/livhg/demo-mcp-server.git
 ### Setup with uv
 
 1. **Navigate to Your Project Directory:**
+
    ```bash
    cd demo-mcp-server
    ```
 
 2. **Create Virtual Environment and Install Packages (One Command!):**
+
    ```bash
    uv venv mcp_env --python 3.14
    ```
 
 3. **Activate Virtual Environment:**
-   
-   - **Windows (Command Prompt):** `mcp_env\Scripts\activate`  
+
+   - **Windows (Command Prompt):** `mcp_env\Scripts\activate`
    - **macOS/Linux:** `source mcp_env/bin/activate`
 
 4. **Install Required Packages:**
@@ -90,21 +91,25 @@ If you prefer not to install uv, you can use the traditional Python approach:
 <summary>Windows (using Command Prompt)</summary>
 
 1. **Navigate to Your Project Directory:**
+
    ```cmd
    cd demo-mcp-server
    ```
 
 2. **Create Virtual Environment:**
+
    ```cmd
    python3 -m venv mcp_env
    ```
 
 3. **Activate Virtual Environment:**
+
    ```cmd
    mcp_env\Scripts\activate
    ```
 
 4. **Verify Activation:**
+
    - You should see `(mcp_env)` at the beginning of your command prompt
 
 5. **Install Required Packages:**
@@ -112,34 +117,38 @@ If you prefer not to install uv, you can use the traditional Python approach:
    pip install mcp[cli]
    ```
 
-
-</details>  
+</details>
 
 <details>
 <summary>macOS/Linux</summary>
 
-1. **Navigate to Your Project Directory:**  
+1. **Navigate to Your Project Directory:**
+
    ```bash
    cd demo-mcp-server
    ```
 
 2. **Create Virtual Environment:**
+
    ```bash
    python3 -m venv mcp_env
    ```
 
 3. **Activate Virtual Environment:**
+
    ```bash
    source mcp_env/bin/activate
    ```
 
 4. **Verify Activation:**
+
    - You should see `(mcp_env)` at the beginning of your terminal prompt
 
 5. **Install Required Packages:**
    ```bash
    pip install mcp[cli]
    ```
+
 </details>
 
 ---
