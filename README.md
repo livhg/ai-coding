@@ -13,27 +13,27 @@
 <details>
 <summary>Session Details</summary>
 
-**ai-coding-foundation**
+**AI Coding Foundation**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1px3OKzhQK173iio6LYJOl5LKE24IRoqa)
 - [檔案](./session1-technical-foundations/ai_coding_foundation.ipynb)
 
-**rag-foundation**
+**RAG Foundation**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1bsgQSaDJjJ_TQ-ZTvPHA1ae9NCmsGG_j)
 - [檔案](./session1-technical-foundations/rag_foundation.ipynb)
 
-**prompt-engineering-token-tracker**
+**Prompt Engineering--Token Tracker**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1kkebvO2-qrQhn6mZGJY3I0xD0amSyxdG)
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
 
-**context-engineering**
+**Context Engineering**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1eRNgspFWU9TjFqEynB_23bnHl7i9xKmx)
 - [檔案](./session1-technical-foundations/context_engineering.ipynb)
 
-**demo-n8n-rag**
+**Demo Project--n8n with RAG**
 
 - [README](session1-technical-foundations/demo-n8n-rag/README.md)
 </details>
@@ -43,21 +43,21 @@
 <details>
 <summary>Session Details</summary>
 
-**agent-basics**
+**Agent Basics**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1koc7nr1ngpZmIyi7lXCDIQoealUZrPaZ)
 - [檔案](./session2-ai-agents/agent_basics.ipynb)
 
-**agent-tools**
+**Agent Tools**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1AhU3Eo6_WTgb2pBZTTq6sXZZqMeny8xP)
 - [檔案](./session2-ai-agents/agent_tools.ipynb)
 
-**demo-project-adk**
+**Demo Project--Google ADK**
 
 - [README](session2-ai-agents/demo-project-adk/README.md)
 
-**multi-agent-system-crewai**
+**Multi-agent System--crewai**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1lPyulI0EnvMgNYaiQlNQbwxHABt3JhFg#scrollTo=KoFNaDNK9t17)
 - [檔案](./session2-ai-agents/multi_agent_system_crewai.ipynb)
@@ -65,19 +65,23 @@
 
 ### Session 3: MCP Server
 
-**mcp-server**
+**MCP Server**
 
 - [README](session3-mcp-server/demo-mcp-server/README.md)
 
-**custom-rag-mcp-server**
+**RAG MCP Server**
 
 - [RAG MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_RAG.md)
 - [RAG MCP Agent](https://github.com/livhg/demo-ai-agents/blob/main/mcp_agent/README.md)
   - [Setup (if needed)](https://github.com/livhg/ai-coding/blob/main/session2-ai-agents/demo-project-adk/README.md)
 
-**sampling-mcp-server**
+**Sampling MCP Server**
 
 - [Sampling MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_SAMPLING.md)
+
+**Convert REST API to MCP Server**
+
+- [README](https://github.com/livhg/demo-mcp-server/blob/main/legacy-api/README.md)
 
 ---
 
