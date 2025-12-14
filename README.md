@@ -71,9 +71,13 @@
 
 **custom-rag-mcp-server**
 
-- [MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_RAG.md)
-- [MCP Agent](https://github.com/livhg/demo-ai-agents/blob/main/mcp_agent/README.md)
+- [RAG MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_RAG.md)
+- [RAG MCP Agent](https://github.com/livhg/demo-ai-agents/blob/main/mcp_agent/README.md)
   - [Setup (if needed)](https://github.com/livhg/ai-coding/blob/main/session2-ai-agents/demo-project-adk/README.md)
+
+**sampling-mcp-server**
+
+- [Sampling MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_SAMPLING.md)
 
 ---
 
