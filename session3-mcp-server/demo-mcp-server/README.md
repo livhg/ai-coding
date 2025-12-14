@@ -78,7 +78,7 @@ Or download from https://github.com/livhg/demo-mcp-server.git
 
 4. **Install Required Packages:**
    ```cmd
-   uv pip install mcp[cli]
+   uv pip install fastmcp
    ```
 
 ---
@@ -114,7 +114,7 @@ If you prefer not to install uv, you can use the traditional Python approach:
 
 5. **Install Required Packages:**
    ```cmd
-   pip install mcp[cli]
+   pip install fastmcp
    ```
 
 </details>
@@ -146,12 +146,18 @@ If you prefer not to install uv, you can use the traditional Python approach:
 
 5. **Install Required Packages:**
    ```bash
-   pip install mcp[cli]
+   pip install fastmcp
    ```
 
 </details>
 
 ---
+
+## Step 4: Run the MCP Server
+
+```
+fastmcp dev server.py
+```
 
 ## After Practice: Deactivating Virtual Environment
 
