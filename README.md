@@ -53,11 +53,11 @@
 - [開啟 Colab](https://colab.research.google.com/drive/1AhU3Eo6_WTgb2pBZTTq6sXZZqMeny8xP)
 - [檔案](./session2-ai-agents/agent_tools.ipynb)
 
-**Demo Project--Google ADK**
+**Multi-Agent System — 使用 Google ADK 框架**
 
 - [README](session2-ai-agents/demo-project-adk/README.md)
 
-**Multi-agent System--crewai**
+**Multi-Agent System — 使用 CrewAI 框架**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1lPyulI0EnvMgNYaiQlNQbwxHABt3JhFg#scrollTo=KoFNaDNK9t17)
 - [檔案](./session2-ai-agents/multi_agent_system_crewai.ipynb)
