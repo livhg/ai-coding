@@ -75,6 +75,7 @@ Or download from https://github.com/livhg/demo-mcp-server.git
 
    - **Windows (Command Prompt):** `mcp_env\Scripts\activate`
    - **macOS/Linux:** `source mcp_env/bin/activate`
+   - You should see `(mcp_env)` at the beginning of your command prompt
 
 4. **Install Required Packages:**
    ```cmd
