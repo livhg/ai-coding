@@ -23,7 +23,7 @@
 - [開啟 Colab](https://colab.research.google.com/drive/1bsgQSaDJjJ_TQ-ZTvPHA1ae9NCmsGG_j)
 - [檔案](./session1-technical-foundations/rag_foundation.ipynb)
 
-**Prompt Engineering--Token Tracker**
+**Prompt Engineering — Token Tracker**
 
 - [開啟 Colab](https://colab.research.google.com/drive/1kkebvO2-qrQhn6mZGJY3I0xD0amSyxdG)
 - [檔案](./session1-technical-foundations/prompt_engineering_token_tracker.ipynb)
@@ -33,7 +33,7 @@
 - [開啟 Colab](https://colab.research.google.com/drive/1eRNgspFWU9TjFqEynB_23bnHl7i9xKmx)
 - [檔案](./session1-technical-foundations/context_engineering.ipynb)
 
-**Demo Project--n8n with RAG**
+**Demo Project — n8n with RAG**
 
 - [README](session1-technical-foundations/demo-n8n-rag/README.md)
 </details>
@@ -65,6 +65,9 @@
 
 ### Session 3: MCP Server
 
+<details>
+<summary>Session Details</summary>
+
 **MCP Server**
 
 - [README](session3-mcp-server/demo-mcp-server/README.md)
@@ -79,9 +82,17 @@
 
 - [Sampling MCP Server](https://github.com/livhg/demo-mcp-server/blob/main/CHALLENGE_SAMPLING.md)
 
+</details>
+
+### Session 4: Team Collaboration
+
 **Convert REST API to MCP Server**
 
-- [README](https://github.com/livhg/demo-mcp-server/blob/main/legacy-api/README.md)
+- [README](https://github.com/livhg/demo-convert-api-to-mcp-server/blob/main/README.md)
+
+**Specification-Driven Development — OpenSpec**
+
+- [OpenSpec SDD](https://github.com/livhg/demo-convert-api-to-mcp-server/blob/main/docs/OPENAPI_TO_MCP_WORKSHOP.md)
 
 ---
 
