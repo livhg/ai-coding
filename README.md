@@ -92,7 +92,7 @@
 
 **Specification-Driven Development — OpenSpec**
 
-- [OpenSpec SDD](https://github.com/livhg/demo-convert-api-to-mcp-server/blob/main/docs/OPENAPI_TO_MCP_WORKSHOP.md)
+- [SDD — OpenSpec](https://github.com/livhg/demo-convert-api-to-mcp-server/blob/main/SDD_PROJECT.md)
 
 ---
 
